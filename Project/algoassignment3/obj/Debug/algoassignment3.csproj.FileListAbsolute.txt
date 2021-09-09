@@ -1,0 +1,32 @@
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe.config
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\bin\Debug\algoassignment3.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form1.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form2.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form3.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\algoassignment3\algoassignment3\obj\Debug\algoassignment3.pdb
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe.config
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.pdb
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csprojAssemblyReference.cache
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form1.resources
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form3.resources
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Properties.Resources.resources
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csproj.GenerateResource.cache
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csproj.CoreCompileInputs.cache
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.exe
+C:\Users\Awais Zahid\Downloads\Algo Assignment 3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.pdb
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe.config
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.exe
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\bin\Debug\algoassignment3.pdb
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csprojAssemblyReference.cache
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form1.resources
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Form3.resources
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.Properties.Resources.resources
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csproj.GenerateResource.cache
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.csproj.CoreCompileInputs.cache
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.exe
+E:\semester 4\algorithm\project algo\my project\18F-0269_18F-0235_18F-0346_4A_ASSIGNMENT_3\algoassignment3\algoassignment3\obj\Debug\algoassignment3.pdb
